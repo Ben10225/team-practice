@@ -1,0 +1,5 @@
+#users>.user-2{
+	color:rgb(162, 19, 19);
+	font-style: italic;
+	font-weight: 700;
+}
